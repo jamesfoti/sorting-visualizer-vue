@@ -1,4 +1,5 @@
 # sorting-visualizer-vue
+This project is a sorting visualizer built using javascript, vue.js, veutify, and p5.js. The app can be accessed here: https://jamesfoti.github.io/sorting-visualizer-vue/.
 
 ## Project setup
 ```
